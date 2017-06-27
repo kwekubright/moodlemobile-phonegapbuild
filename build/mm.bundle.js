@@ -6964,11 +6964,11 @@ angular.module('mm.core')
         };
         self.getDocsUrl = function(release, page) {
             page = page || 'Mobile_app';
-            var docsurl = 'https://docs.moodle.org/en/' + page;
+            var docsurl = 'https://excel.my/en/' + page;
             if (typeof release != 'undefined') {
                 var version = release.substr(0, 3).replace(".", "");
                 if (parseInt(version) >= 24) {
-                    docsurl = docsurl.replace('https://docs.moodle.org/', 'https://docs.moodle.org/' + version + '/');
+                    docsurl = docsurl.replace('https://excel.my/', 'https://excel.my/' + version + '/');
                 }
             }
             return $mmLang.getCurrentLanguage().then(function(lang) {
