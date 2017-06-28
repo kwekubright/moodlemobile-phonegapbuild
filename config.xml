@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "my.mu.excel"
-        versionCode = "20180"
+        versionCode = "20181"
         version   = "3.3.0">
     <name>Excel.my</name>
 
