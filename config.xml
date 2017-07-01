@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "my.mu.excel"
-        versionCode = "20181"
-        version   = "3.3.1">
-    <name>Excel.my</name>
+        id        = "com.modernlms.modernlms"
+        versionCode = "20180"
+        version   = "3.3.0">
+    <name>ModernLMS</name>
 
     <description>
-        Excel.my official app
+        ModernLMS.com official app
     </description>
 
-    <author href="https://excel.my" email="support@excel.my">
-        Excel.my
+    <author href="https://modernlms.com" email="support@modernlms.com">
+        ModernLMS
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
