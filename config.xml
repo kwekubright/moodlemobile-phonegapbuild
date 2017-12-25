@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "my.mu.excel"
+        id        = "com.mycgia.cgiaglobal"
         versionCode = "20181"
         version   = "3.3.1">
-    <name>Excel.my</name>
+    <name>MyCGIA</name>
 
     <description>
-        Excel.my official app
+        MyCGIA official app
     </description>
 
-    <author href="https://excel.my" email="support@excel.my">
-        Excel.my
+    <author href="https://cgiaglobal.com" email="membership@cgiaglobal.com">
+        CGIA Tech Team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">

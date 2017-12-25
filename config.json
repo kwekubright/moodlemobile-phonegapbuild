@@ -1,6 +1,6 @@
 {
-    "app_id" : "my.my.excel",
-    "appname": "Excel.my",
+    "app_id" : "com.mycgia.cgiaglobal",
+    "appname": "MyCGIA",
     "versioncode" : "2018",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
@@ -10,8 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://lms.excel.my",
+    "siteurl": "https://mycgia.cgiaglobal.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://excel.my/en/privacy"
+    "privacypolicy": "https://MyCGIA/en/privacy"
 }
