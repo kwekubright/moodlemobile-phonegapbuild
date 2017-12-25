@@ -10,8 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://mycgia.cgiaglobal.com",
+    "siteurl": "http://mycgia.cgiaglobal.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://MyCGIA/en/privacy"
+    "privacypolicy": "http://MyCGIA/en/privacy"
 }
